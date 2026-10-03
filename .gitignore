@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Database dumps & local env
+*.dump
+*.backup
+*.log
+.env
+pgadmin4.db
